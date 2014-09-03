@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\fsm\FSMState.cs">
+    <Files>
+      <File FileName="Assets\fsm\FSMState.cs" Line="35" Column="7" />
+      <File FileName="Assets\fsm\FSMMachine.cs" Line="40" Column="3" />
+      <File FileName="Assets\fsm\FSMAIControl.cs" Line="16" Column="29" />
+      <File FileName="..\..\work\client\trunk\Assets\Scripts\HXFS\Logic\Bag\QBagUIController.cs" Line="155" Column="41" />
+      <File FileName="..\..\work\client\trunk\Assets\Scripts\HXFS\Core\QBaseController.cs" Line="52" Column="41" />
+      <File FileName="..\..\work\client\trunk\Assets\Scripts\HXFS\Logic\Bag\QBagData.cs" Line="34" Column="40" />
+      <File FileName="Assets\game\Control.cs" Line="1" Column="15" />
+      <File FileName="Assets\game\AIControl.cs" Line="1" Column="15" />
+      <File FileName="..\..\work\client\trunk\Assets\Scripts\HXFS\Logic\Bag\QBagOpenGiftUIController.cs" Line="1" Column="1" />
+      <File FileName="..\..\work\client\trunk\Assets\Scripts\HXFS\Logic\Bag\QBagSellItemUIController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
