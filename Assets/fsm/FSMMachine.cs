@@ -38,8 +38,14 @@ namespace FSM {
 			currentState.update();
 		}
 
-		public virtual void addState() {}
-		public virtual void setDefaultState() {}
+		public virtual void addState(FSMState add) {
+			states.Add(add);
+		}
+
+		public virtual void setDefaultState(FSMState defaultState) {
+			defaultState = defaultState;
+		}
+
 		public virtual void setGoalId() {}
 		public virtual bool transitionState() {}
 		public virtual void reset() {}

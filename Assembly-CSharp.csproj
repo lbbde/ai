@@ -49,8 +49,14 @@
      <Compile Include="Assets\fsm\FSMAIControl.cs" />
      <Compile Include="Assets\fsm\FSMMachine.cs" />
      <Compile Include="Assets\fsm\FSMState.cs" />
+     <Compile Include="Assets\fsm\StateApproch.cs" />
+     <Compile Include="Assets\fsm\StateAttack.cs" />
+     <Compile Include="Assets\fsm\StateEvade.cs" />
+     <Compile Include="Assets\fsm\StateGetPowerup.cs" />
+     <Compile Include="Assets\fsm\StateIdle.cs" />
      <Compile Include="Assets\game\AIControl.cs" />
      <Compile Include="Assets\game\Control.cs" />
+     <Compile Include="Assets\game\GameHelper.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
