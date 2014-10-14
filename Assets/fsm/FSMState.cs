@@ -31,7 +31,7 @@ namespace FSM {
 		APPROACH,
 		ATTACK,
 		EVADE,
-		GETPOWERUP,
+		GET_POWER_UP,
 		IDLE
 	}
 
